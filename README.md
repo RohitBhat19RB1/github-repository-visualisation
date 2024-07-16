@@ -17,8 +17,8 @@ This Angular application fetches data from GitHub's GraphQL API, displays it in 
 ## Setup Instructions
 
 1. **Clone the Repository**:
-    git clone https://github.com/yourusername/github-repo-visualization.git
-    cd github-repo-visualization
+    git clone https://github.com/RohitBhat19RB1/github-repository-visualisation
+    cd github-repository-visualization
 
 2. **Install Dependencies**:
     npm install
@@ -63,10 +63,10 @@ This Angular application fetches data from GitHub's GraphQL API, displays it in 
 - **NgRx Store**: Manages the state of the application.
 
 ## Screencast
-https://github.com/RohitBhat19RB1/github-repo-visualization/commit/88a5ae4e0ede8d869e57b47383577b7eddb640a9#commitcomment-144264841
+https://github.com/RohitBhat19RB1/github-repository-visualisation/commit/b297b23a03ea8dcdd014888ec449fc6ca4af3833#commitcomment-144304553
 
 ## Screenshots
-https://github.com/RohitBhat19RB1/github-repo-visualization/commit/88a5ae4e0ede8d869e57b47383577b7eddb640a9#commitcomment-144264807
+https://github.com/RohitBhat19RB1/github-repository-visualisation/commit/b297b23a03ea8dcdd014888ec449fc6ca4af3833#commitcomment-144304575
 
 ## Contributing
 
@@ -79,4 +79,4 @@ https://github.com/RohitBhat19RB1/github-repo-visualization/commit/88a5ae4e0ede8
 ## Contact
 
 - Rohit Bhat - rohitbhat16860@gmail.com
-- Project Link: https://github.com/RohitBhat19RB1/github-repo-visualization
+- Project Link: https://github.com/RohitBhat19RB1/github-repository-visualisation
