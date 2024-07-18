@@ -1,4 +1,4 @@
 export class environment {
     static production = false;
-    static githubToken = "Your Personal access token here";
+    static githubToken = "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";
 }
